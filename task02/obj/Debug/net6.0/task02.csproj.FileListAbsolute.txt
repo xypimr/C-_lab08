@@ -1,0 +1,15 @@
+/Users/oldmash/RiderProjects/labsC#/C-_lab08/task02/bin/Debug/net6.0/task02
+/Users/oldmash/RiderProjects/labsC#/C-_lab08/task02/bin/Debug/net6.0/task02.deps.json
+/Users/oldmash/RiderProjects/labsC#/C-_lab08/task02/bin/Debug/net6.0/task02.runtimeconfig.json
+/Users/oldmash/RiderProjects/labsC#/C-_lab08/task02/bin/Debug/net6.0/task02.dll
+/Users/oldmash/RiderProjects/labsC#/C-_lab08/task02/bin/Debug/net6.0/task02.pdb
+/Users/oldmash/RiderProjects/labsC#/C-_lab08/task02/obj/Debug/net6.0/task02.csproj.AssemblyReference.cache
+/Users/oldmash/RiderProjects/labsC#/C-_lab08/task02/obj/Debug/net6.0/task02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oldmash/RiderProjects/labsC#/C-_lab08/task02/obj/Debug/net6.0/task02.AssemblyInfoInputs.cache
+/Users/oldmash/RiderProjects/labsC#/C-_lab08/task02/obj/Debug/net6.0/task02.AssemblyInfo.cs
+/Users/oldmash/RiderProjects/labsC#/C-_lab08/task02/obj/Debug/net6.0/task02.csproj.CoreCompileInputs.cache
+/Users/oldmash/RiderProjects/labsC#/C-_lab08/task02/obj/Debug/net6.0/task02.dll
+/Users/oldmash/RiderProjects/labsC#/C-_lab08/task02/obj/Debug/net6.0/refint/task02.dll
+/Users/oldmash/RiderProjects/labsC#/C-_lab08/task02/obj/Debug/net6.0/task02.pdb
+/Users/oldmash/RiderProjects/labsC#/C-_lab08/task02/obj/Debug/net6.0/task02.genruntimeconfig.cache
+/Users/oldmash/RiderProjects/labsC#/C-_lab08/task02/obj/Debug/net6.0/ref/task02.dll
