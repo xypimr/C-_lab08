@@ -7,7 +7,7 @@ static class Program
     static void Main(string[] args)
     {
         XmlSerializer xmlSerializer = new XmlSerializer(typeof(Animal));
-        var animalToSererialize = new Animal("RU", false, "Oleg", "Copibara");
+        var animalToSererialize = new Cow("RU", "Oleg");
         using (FileStream fs = new FileStream("../../../animal.xml", FileMode.Truncate))
         {
             xmlSerializer.Serialize(fs, animalToSererialize);
@@ -17,7 +17,7 @@ static class Program
 
         using (FileStream fs = new FileStream("../../../animal.xml", FileMode.OpenOrCreate))
         {
-            var deserializeAnimal = xmlSerializer.Deserialize(fs) as Animal;
+            var deserializeAnimal = xmlSerializer.Deserialize(fs) as Cow;
             Console.WriteLine($"deserialized object: " +
                               $"\ntype: {deserializeAnimal}:" +
                               $"\n\tcountry: {deserializeAnimal.Country}" +

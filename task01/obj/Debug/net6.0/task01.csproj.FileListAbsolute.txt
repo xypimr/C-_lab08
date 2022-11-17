@@ -5,7 +5,6 @@
 /Users/oldmash/RiderProjects/labsC#/C-_lab08/task01/bin/Debug/net6.0/task01.pdb
 /Users/oldmash/RiderProjects/labsC#/C-_lab08/task01/bin/Debug/net6.0/Animals.dll
 /Users/oldmash/RiderProjects/labsC#/C-_lab08/task01/bin/Debug/net6.0/Animals.pdb
-/Users/oldmash/RiderProjects/labsC#/C-_lab08/task01/bin/Debug/net6.0/Animals.xml
 /Users/oldmash/RiderProjects/labsC#/C-_lab08/task01/obj/Debug/net6.0/task01.csproj.AssemblyReference.cache
 /Users/oldmash/RiderProjects/labsC#/C-_lab08/task01/obj/Debug/net6.0/task01.GeneratedMSBuildEditorConfig.editorconfig
 /Users/oldmash/RiderProjects/labsC#/C-_lab08/task01/obj/Debug/net6.0/task01.AssemblyInfoInputs.cache

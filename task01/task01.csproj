@@ -9,7 +9,7 @@
 
     <ItemGroup>
       <Reference Include="Animals">
-        <HintPath>..\..\C-_lab07\Program\bin\Debug\net6.0\Animals.dll</HintPath>
+        <HintPath>..\..\C-_lab07\Animals\bin\Debug\net6.0\Animals.dll</HintPath>
       </Reference>
     </ItemGroup>
 

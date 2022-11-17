@@ -12,7 +12,7 @@ static class Program
         Console.WriteLine("");
         const string fileToSearch = "YEEEEES.txt";
         var path = Directory.GetFiles("/Users/oldmash/RiderProjects", fileToSearch, SearchOption.AllDirectories);
-        Console.WriteLine($"Путь к файлу{path[0]}");
+        Console.WriteLine($"Путь к файлу: {path[0]}");
         using (FileStream fs = new FileStream(path[0], FileMode.Open))
         {
             byte[] b = new byte[fs.Length];
